@@ -11,7 +11,7 @@ Works with: Firefox, Chrome
 
 **Screenshot**
 
-![Screenshot](/docs/screenshot.png?raw=true "Screenshot")
+![Screenshot](/docs/screenshot-chrome-AI.png?raw=true "Screenshot")
 
 ## AI suggestions
 
